@@ -1,3 +1,5 @@
+[аип лр9-10.docx](https://github.com/Zhanel18/Zhanel18/files/7511955/9-10.docx)
+[Алибекова ТПО18.docx](https://github.com/Zhanel18/Zhanel18/files/7511957/18.docx)
 
 procedure TForm1.Button1Click(Sender: TObject);
 var a:array of integer;
